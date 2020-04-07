@@ -2,11 +2,11 @@
 
 # Jupyter Notebook which leads through the code used to create [huskinDB](https://huskindb.drug-design.de) publication Figures
 #### It is possible to install all required packages locally and run the code (for this purpose, please follow the installation guide)
-### **or run it on Binder:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RhDm/huskinDB_publication.git/master)
+## or run it on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RhDm/huskinDB_publication.git/master)
 
-### Minimal macOS/Linux Installation (Python3 or even Python2.7):
-open Terminal and input following commands
-1. clone the repository into some folder:
+#### Minimal macOS/Linux Installation (Python3 or even Python2.7)
+open Terminal and input following commands:
+1. clone the repository into some folder
 ```
 git clone https://github.com/RhDm/huskinDB_publication.git
 ```
