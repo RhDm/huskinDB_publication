@@ -1,10 +1,10 @@
 <img src="https://github.com/RhDm/huskinDB_publication/blob/master/images/Logo_new_12.png" alt="drawing" width="600px"/>
 
-## Jupyter Notebook which leads through the code used to create huskinDB publication Figures
+# Jupyter Notebook which leads through the code used to create [huskinDB](https://huskindb.drug-design.de) publication Figures
 ### It is possible to install all required packages locally and run the code (for this purpose, please follow the installation guide)
-### or you can simply run it on Binder click: [![Binder](httbs://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RhDm/huskinDB_publication.git/master)
+### or you can simply run it on Binder click: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RhDm/huskinDB_publication.git/master)
 
-### macOS/Linux Installation
+### macOS/Linux Installation:
 1. clone the repository into some folder:
 ```
 git clone https://github.com/RhDm/huskinDB_publication.git
