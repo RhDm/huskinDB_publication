@@ -17,7 +17,7 @@ cd huskinDB_publication/
 3. install pip and create a separate virtual environment
 ```
 pip install virtualenv
-virtualenv -p $(which python) venvi
+virtualenv -p $(which python) venv
 ```
 4. activate the environment
 ```
