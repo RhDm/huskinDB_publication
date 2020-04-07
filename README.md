@@ -1,4 +1,4 @@
-<a href="https://huskindb.drug-design.de" target="_blank"><img src="https://github.com/RhDm/huskinDB_publication/blob/master/images/Logo_new_12.png" alt="drawing" width="600px"/></a>
+<a href="https://huskindb.drug-design.de" target="_blank"><img src="https://github.com/RhDm/huskinDB_publication/blob/master/images/Logo_new_12.png" alt="drawing" width="400px"/></a>
 
 # Jupyter Notebook which leads through the code used to create [huskinDB](https://huskindb.drug-design.de) publication Figures
 #### It is possible to install all required packages locally and run the code (for this purpose, please follow the installation guide)
