@@ -3,6 +3,9 @@
 # Jupyter Notebook which leads through the code used to create [huskinDB](https://huskindb.drug-design.de) publication Figures
 #### It is possible to install all required packages locally and run the code (for this purpose, please follow the installation guide)
 ## or run it on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RhDm/huskinDB_publication.git/master)
+##### *it may take a few minutes until the image is ready; when done, please click on the file `huskinDB_publication_plots.ipynb`*
+
+<br>
 
 #### Minimal macOS/Linux Installation (Python3 or even Python2.7)
 open Terminal and input following commands:
